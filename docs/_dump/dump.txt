@@ -1,0 +1,7 @@
+alias: {
+          '/.*/_sidebar.md': '/_sidebar.md',
+          '.*?/CHANGELOG':
+            'https://github.com/simpletaskssimpleapps/LastWar/blob/main/CHANGELOG',
+          '.*?/CONTRIBUTING':
+            'https://github.com/simpletaskssimpleapps/LastWar/blob/main/CONTRIBUTING'
+        },
