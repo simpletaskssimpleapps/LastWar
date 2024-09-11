@@ -20,12 +20,7 @@ This website was created to foster cross-alliance and cross-server growth of lik
 > If you like the content, feel free to Buy me a Coffee. This would also help me offset the cost of maintaining all this content in the website amd the discord server.
 > If you want to contribute or comment, feel free to join the Discord.
 
-<p align="center">
-<img style="margin:auto; width: 10em; display: block; margin-left: auto; margin-right: auto;" title="qr" src="https://github.com/simpletaskssimpleapps/LastWar/blob/main/docs/images/qr-buymeacoffee.png?raw=true">
-</p>
-<p align="center" id="bas">
-<a href= https://buymeacoffee.com/icegogol class="bas">Buy me a Coffee ☕︎</a>
-</p>
-<p align="center" id="discord">
-<a href= https://discord.gg/Ch8GUQxxGn class="discord">Join the Discord 👾</a>
-</p>
+<div class="buttons" align="center">
+  <a href="https://buymeacoffee.com/icegogol" target="_blank"><span>Buy me a Coffee ☕︎</span></a>
+  <a href="https://discord.gg/Ch8GUQxxGn" target="_blank"><span>Join the Discord 👾</span></a>
+</div>
